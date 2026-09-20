@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0881-boats-to-save-people](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0881-boats-to-save-people) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -36,4 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0881-boats-to-save-people](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0881-boats-to-save-people) |
+## Two Pointers
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0881-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
