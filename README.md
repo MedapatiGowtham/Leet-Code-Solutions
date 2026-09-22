@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0720-longest-word-in-dictionary) |
 ## Queue
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Greedy
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
