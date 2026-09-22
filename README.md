@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0881-boats-to-save-people) |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MedapatiGowtham/Leet-Code-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
